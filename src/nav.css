@@ -1,0 +1,138 @@
+/* @media only screen and (max-width: 768px) {
+  .body {
+    width: 100%;
+  }
+
+  #container {
+    display: flex;
+    flex-direction: column;
+  }
+  #nav {
+    display: flex;
+    flex-direction: column;
+  }
+  #section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding-left: 80px;
+  }
+
+  #about h1 {
+    font-size: 2rem;
+    text-align: center;
+  }
+  #about {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90vw;
+    margin: auto;
+  }
+  section {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+  }
+  p {
+    width: 80vw;
+  }
+  .body {
+    width: 100vw;
+  }
+  .img {
+    margin-left: 40px;
+  }
+  .servicedata {
+    width: 100vw;
+  }
+  .servicedata p {
+    width: 80vw;
+  }
+  #heading {
+    display: flex;
+    flex-direction: column;
+
+    width: 90vw;
+    margin: auto;
+  }
+  #heading h1 {
+    font-size: xx-large;
+  }
+  #heading p {
+    width: 85vw;
+    text-align: justify;
+    padding-left: 40px;
+  }
+  #books {
+    width: 100vw;
+    display: flex;
+
+    flex-wrap: wrap-reverse;
+    flex-direction: column-reverse;
+    justify-content: center;
+  }
+  #data {
+    width: 70vw;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+  }
+  #data h1 {
+    color: chocolate;
+  }
+  #services {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+  }
+  #services img {
+    width: 500px;
+    padding-top: 10px;
+    padding-left: 40px;
+  }
+  #top-down {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  #menu {
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .div {
+    margin-left: 50px;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+  }
+  .div2 {
+    margin-left: 50px;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+  }
+
+  #contact {
+    width: 100vw;
+    display: block;
+    align-items: center;
+    padding-left: 200px;
+  }
+} */
+
+.me {
+  width: 70vw;
+  display: flex;
+  gap: 20px;
+  justify-content: flex-end;
+  position: relative;
+
+  align-items: center;
+
+  font-size: x-large;
+}
